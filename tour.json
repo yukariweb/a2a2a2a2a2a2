@@ -1,0 +1,176 @@
+{
+  "scenes": [
+    {
+      "filename": "IMG_20251106_134624_00_272_PureShot+.jpg",
+      "name": "IMG_20251106_134624_00_272_PureShot+.jpg",
+      "fullpath": "C:/Users/こっこにーる/Documents/aaaaa/scenes/IMG_20251106_134624_00_272_PureShot+.jpg",
+      "hotspots": [],
+      "initialView": {
+        "yaw": 0.11354453579685142,
+        "pitch": 0.02302700515680378,
+        "fov": 1.153613911867141
+      },
+      "view": {
+        "yaw": 0.1348832912761555,
+        "pitch": 0.10534784015077747,
+        "fov": 1.153613911867141
+      }
+    },
+    {
+      "filename": "IMG_20251106_134822_00_274_PureShot+.jpg",
+      "name": "IMG_20251106_134822_00_274_PureShot+.jpg",
+      "fullpath": "C:/Users/こっこにーる/Documents/aaaaa/scenes/IMG_20251106_134822_00_274_PureShot+.jpg",
+      "hotspots": [],
+      "initialView": {
+        "yaw": -2.4539611818420113,
+        "pitch": -0.005187493508003627,
+        "fov": 1.153613911867141
+      },
+      "view": {
+        "yaw": -2.4539611818420113,
+        "pitch": -0.005187493508003627,
+        "fov": 1.153613911867141
+      }
+    },
+    {
+      "filename": "IMG_20251106_135347_00_277_PureShot+.jpg",
+      "name": "IMG_20251106_135347_00_277_PureShot+.jpg",
+      "fullpath": "C:/Users/こっこにーる/Documents/aaaaa/scenes/IMG_20251106_135347_00_277_PureShot+.jpg",
+      "hotspots": [],
+      "initialView": {
+        "yaw": -0.209361321293823,
+        "pitch": 0.08191798569696473,
+        "fov": 1.153613911867141
+      },
+      "view": {
+        "yaw": -0.209361321293823,
+        "pitch": 0.08191798569696473,
+        "fov": 1.153613911867141
+      }
+    },
+    {
+      "filename": "IMG_20251106_135824_00_279_PureShot+.jpg",
+      "name": "IMG_20251106_135824_00_279_PureShot+.jpg",
+      "fullpath": "C:/Users/こっこにーる/Documents/aaaaa/scenes/IMG_20251106_135824_00_279_PureShot+.jpg",
+      "hotspots": [],
+      "initialView": {
+        "yaw": -1.6971468403449883,
+        "pitch": 0.07548860352647324,
+        "fov": 1.153613911867141
+      },
+      "view": {
+        "yaw": -1.6971468403449883,
+        "pitch": 0.07548860352647324,
+        "fov": 1.153613911867141
+      }
+    },
+    {
+      "filename": "IMG_20251106_140205_00_282_PureShot+.jpg",
+      "name": "IMG_20251106_140205_00_282_PureShot+.jpg",
+      "fullpath": "C:/Users/こっこにーる/Documents/aaaaa/scenes/IMG_20251106_140205_00_282_PureShot+.jpg",
+      "hotspots": [],
+      "initialView": null,
+      "view": {
+        "yaw": 0.026992863114555732,
+        "pitch": 0.05584542943361015,
+        "fov": 1.153613911867141
+      }
+    },
+    {
+      "filename": "IMG_20251106_140522_00_286_PureShot+.jpg",
+      "name": "IMG_20251106_140522_00_286_PureShot+.jpg",
+      "fullpath": "C:/Users/こっこにーる/Documents/aaaaa/scenes/IMG_20251106_140522_00_286_PureShot+.jpg",
+      "hotspots": [],
+      "initialView": {
+        "yaw": -2.1918276493668927,
+        "pitch": 0.2780049572487844,
+        "fov": 1.153613911867141
+      },
+      "view": {
+        "yaw": -2.1918276493668927,
+        "pitch": 0.2780049572487844,
+        "fov": 1.153613911867141
+      }
+    },
+    {
+      "filename": "IMG_20251106_140943_00_289_PureShot+.jpg",
+      "name": "IMG_20251106_140943_00_289_PureShot+.jpg",
+      "fullpath": "C:/Users/こっこにーる/Documents/aaaaa/scenes/IMG_20251106_140943_00_289_PureShot+.jpg",
+      "hotspots": [],
+      "initialView": {
+        "yaw": 0.0274151914104106,
+        "pitch": 0.10091683134966623,
+        "fov": 1.153613911867141
+      },
+      "view": {
+        "yaw": 0.0274151914104106,
+        "pitch": 0.10091683134966623,
+        "fov": 1.153613911867141
+      }
+    },
+    {
+      "filename": "IMG_20251106_141222_00_292_PureShot+.jpg",
+      "name": "IMG_20251106_141222_00_292_PureShot+.jpg",
+      "fullpath": "C:/Users/こっこにーる/Documents/aaaaa/scenes/IMG_20251106_141222_00_292_PureShot+.jpg",
+      "hotspots": [],
+      "initialView": {
+        "yaw": 0.13269585366812287,
+        "pitch": 0.029827377937433397,
+        "fov": 1.153613911867141
+      },
+      "view": {
+        "yaw": 0.13269585366812287,
+        "pitch": 0.029827377937433397,
+        "fov": 1.153613911867141
+      }
+    },
+    {
+      "filename": "IMG_20251106_141444_00_295_PureShot+.jpg",
+      "name": "IMG_20251106_141444_00_295_PureShot+.jpg",
+      "fullpath": "C:/Users/こっこにーる/Documents/aaaaa/scenes/IMG_20251106_141444_00_295_PureShot+.jpg",
+      "hotspots": [],
+      "initialView": {
+        "yaw": -1.6415677901200354,
+        "pitch": 0.109268161439811,
+        "fov": 1.153613911867141
+      },
+      "view": {
+        "yaw": -1.6415677901200354,
+        "pitch": 0.109268161439811,
+        "fov": 1.153613911867141
+      }
+    },
+    {
+      "filename": "IMG_20251106_141704_00_298_PureShot+.jpg",
+      "name": "IMG_20251106_141704_00_298_PureShot+.jpg",
+      "fullpath": "C:/Users/こっこにーる/Documents/aaaaa/scenes/IMG_20251106_141704_00_298_PureShot+.jpg",
+      "hotspots": [],
+      "initialView": {
+        "yaw": 0.05887386393204963,
+        "pitch": 0.15134296095170363,
+        "fov": 1.153613911867141
+      },
+      "view": {
+        "yaw": 0.05887386393204963,
+        "pitch": 0.15134296095170363,
+        "fov": 1.153613911867141
+      }
+    },
+    {
+      "filename": "IMG_20251106_141911_00_301_PureShot+.jpg",
+      "name": "IMG_20251106_141911_00_301_PureShot+.jpg",
+      "fullpath": "C:/Users/こっこにーる/Documents/aaaaa/scenes/IMG_20251106_141911_00_301_PureShot+.jpg",
+      "hotspots": [],
+      "initialView": {
+        "yaw": 1.0824674354775201,
+        "pitch": 0.10003594189383058,
+        "fov": 1.153613911867141
+      },
+      "view": {
+        "yaw": 1.0824674354775201,
+        "pitch": 0.10003594189383058,
+        "fov": 1.153613911867141
+      }
+    }
+  ]
+}
